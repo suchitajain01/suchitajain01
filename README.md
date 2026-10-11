@@ -74,13 +74,45 @@ CSE Student | Developer | AI & Open Source Enthusiast 🤖
 
 ## 🚀 Featured Projects
 
-### 🎵 Music Player
-A modern music player built with React and Tailwind CSS.
+### 📝 Notes App
+A React and TypeScript notes app with Markdown previews,
+search, category filters, pinned notes, and local storage.
+
+**Stack:** React · TypeScript · Tailwind CSS · Vite
+
+[Repository](https://github.com/suchitajain01/NOTES-APP) |
+[Live Demo](https://notesapp-ten-gilt.vercel.app)
+
+### 🎵 Music Player Website
+A music browsing interface with charts, playlist pages,
+artist sections, and responsive navigation.
+
+**Stack:** React · Tailwind CSS · Vite
+
+[Repository](https://github.com/suchitajain01/Music-Player-Website)
 
 ### 🛒 Amazon Homepage
-A frontend e-commerce interface with cart and wishlist functionality.
+An Amazon-inspired e-commerce homepage built to practise
+frontend layout and interface development.
 
----
+**Stack:** HTML · CSS · JavaScript
+
+[Repository](https://github.com/suchitajain01/Amazon-homePage)
+[Live Demo](https://amazon-home-page-rx8j.vercel.app/)
+
+
+## 🤝 Open Source Contributions
+
+### CollegeMS — College Management System
+
+Contributed to visitor management functionality through
+two accepted pull requests:
+
+- [Visitor Management Module — PR #515](https://github.com/anchals22/collegems/pull/515)
+- [Visitor Management Backend API — PR #529](https://github.com/anchals22/collegems/pull/529)
+
+These contributions gave me practical experience working
+with an existing codebase and submitting changes for review.
 
 ## 📊 GitHub Stats
 
